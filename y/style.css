@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: 0 auto;
+    width: 1000px;
+}
+div.top{
+    background-color: rgb(235, 231, 232);
+    height: 80px;
+}
+div.img img{
+    width: 150px;
+    margin-top: 10px;
+}
+div.list li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 30px;
+    margin-top: 10px;
+    
+}
+div.list{
+    position: absolute;
+    left: 700px;
+    bottom: 610px;
+}
+div.list li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}
+div.list li a:hover{
+    color:white;
+    background-color: rgb(190, 188, 50);
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+div.yug img{
+    width: 1250px;
+    height: 600px;
+}
+.pre{
+    background-color:rgb(235, 231, 232);
+    padding: 50px 0px;
+    height: 203px;
+}
+div.dis p.new{
+    font-size: 20px;
+    color:rgb(128, 116, 116);
+}
+div.dis p.twist{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(241, 58, 95);
+    margin-top: 20px;
+    font-family:cursive;
+}
+div.dis p.web{
+    color:rgb(128, 116, 116) ;
+    margin-top: 40px;
+}
+div.dis p.aa{
+    color: rgb(109, 95, 86);
+    margin-top: 10px;
+}
+div.dis p.aa a{
+    color: rgb(109, 95, 86);
+}
+div.dis p.aa a:hover{
+    color: rgb(190, 188, 50);
+}
+div.dis p.you{
+    color:rgb(128, 116, 116) ;
+    margin-top: 10px;
+}
+div.pink img{
+    position: relative;
+    left: 600px;
+    bottom: 206px ;
+}
+div.bottom{
+    background-color: rgb(190, 188, 50);
+    height: 200px;
+    margin-top: 4px;
+}
+div.ice{
+    display: inline-block;
+}
+div.ice i{
+    color: white;
+    font-size: 40px;
+}
+div.ice p{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+div.story {
+    display: inline-block;
+}
+div.story i{
+    color: white;
+    font-size: 40px;
+    position: relative;
+
+}
+div.story{
+    display: inline-block;
+}
+div.story p{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+div.flv{
+    display: inline-block;
+}
+div.flv i{
+    color: white;
+    font-size: 40px;
+
+}
+div.flv p{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px;
+
+}
+div.loc{
+   display: inline-block;
+}
+div.loc i{
+    color: white;
+    font-size: 40px;
+
+}
+div.loc p{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
